@@ -1,3 +1,3 @@
-# hacker-fonts
+# Hacker Fonts
 
 A collection of fonts for hackers
